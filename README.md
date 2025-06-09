@@ -1,6 +1,6 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.herohan/UVCAndroid.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.herohan%22%20AND%20a:%22UVCAndroid%22)
 
-UVCAndroid
+UVCAndroid-Support
 =========
 
 Library and sample to access UVC camera on non-rooted Android device
@@ -39,3 +39,4 @@ ProGuard users must manually add the below options.
 Requirements
 --------------
 Android 5.0+
+对于1.1.0来说,代码会回退版本到support以适配老项目。
