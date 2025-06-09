@@ -39,4 +39,5 @@ ProGuard users must manually add the below options.
 Requirements
 --------------
 Android 5.0+
+
 对于1.1.0来说,代码会回退版本到support以适配老项目。
